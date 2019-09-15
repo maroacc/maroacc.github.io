@@ -3405,10 +3405,9 @@ input, select, textarea {
 			content: '';
 			display: block;
 			height: 100%;
-			left: 0;
-			right: 200 px;
+			/* left: 0; */
 			position: absolute;
-			top: 0;
+			/* top: 0; */
 			width: 100%;
 		}
 
