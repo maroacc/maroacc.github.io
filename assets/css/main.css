@@ -3420,6 +3420,7 @@ input, select, textarea {
 	#intro header h2 {
 		font-size: 2em;
 		font-weight: 900;
+		text-align: : center;
 	}
 
 	#intro header p {
