@@ -3406,8 +3406,8 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			position: absolute;
 			right: 200 px;
+			position: absolute;
 			top: 0;
 			width: 100%;
 		}
