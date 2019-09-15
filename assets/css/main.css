@@ -3405,15 +3405,17 @@ input, select, textarea {
 			content: '';
 			display: block;
 			height: 100%;
-			/* left: 0; */
+			left: 0;
 			position: absolute;
-			/* top: 0; */
+			top: 0;
 			width: 100%;
 		}
 
 		#intro .logo img {
 			display: block;
-			margin-left: -0.25em;
+			/* margin-left: -0.25em; */
+			margin-left: -0.7em;
+
 			width: 4.5em;
 		}
 
